@@ -18,6 +18,11 @@ p.intro {
 	font-size: 20px;
 }
 
+.intro a {
+	color: green;
+	text-decoration: none;
+}
+
 div.projects {
 	margin-top: 40px;
 	margin-left: auto;
