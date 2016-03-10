@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Microkernels - The component-based operating systems</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+	<div class="wrapper">
+		<div class="logotext"><h1>Microkernels</h1></div>
+
+		<p class="intro">Microkernels are operating systems that
+outsource the traditional operating system functionality to ordinary user
+processes while providing them with mechanisms requisite for implementing it.
+Microkernel-based operating systems come in many different flavours, each
+having a distinctive set of goals, features and approaches.  Some of the most
+often cited reasons for structuring the system as a microkernel is flexibility,
+security and fault tolerance. Many microkernels can take on the role of a
+hypervisor too. Microkernels and their user environments are most often
+implemented in the C or C++ programming languages with a little bit of
+assembly, but other implementation languages are possible too.  In fact, each
+component of a microkernel-based system can be implemented in a different
+programming language.</p>
+		<p class="intro">Here is a list of active free, open source
+microkernel projects. If your project is missing, please let us know.</p>
+
+		<div class="projects">
+			<div class="project genode">
+				<img src="img/genode.png"/>
+				<div class="desc">
+					<h2>Genode</h2>
+					<p>A tool kit for building highly secure special-purpose operating systems. It scales from embedded systems with as little as 4 MB of memory to highly dynamic general-purpose workloads. (<a href="http://genode.org">genode.org</a>)</p>
+				</div>
+			</div>
+
+			<div class="project helenos">
+				<img src="img/helenos.svg"/>
+				<div class="desc">
+					<h2>HelenOS</h2>
+					<p>A portable microkernel-based multiserver operating system designed and implemented from scratch. It decomposes key operating system functionality such as file systems, networking, device drivers and graphical user interface into a collection of fine-grained user space components that interact with each other via message passing. (<a href="http://helenos.org">helenos.org</a>)</p>
+				</div>
+			</div>
+
+			<div class="project hurd">
+				<img src="img/hurd.svg"/>
+				<div class="desc">
+					<h2>GNU Hurd</h2>
+					<p>The GNU project's replacement for the Unix kernel. It is a collection of servers that run on the Mach microkernel to implement file systems, network protocols, file access control, and other features that are implemented by the Unix kernel or similar kernels (such as Linux). (<a href="http://hurd.gnu.org">hurd.gnu.org</a>)</p>
+				</div>
+			</div>
+
+			<div class="project l4re">
+				<img src="img/fiasco.png"/>
+				<div class="desc">
+					<h2>L4Re</h2>
+					<p>Forms the foundation for application development and interaction on the Fiasco.OC microkernel. It consists of basic services such as program loading and memory management. L4Re also provides the environment for applications, including libraries and process local functionality. (<a href="http://l4re.org">l4re.org</a>)</p>
+				</div>
+			</div>
+
+			<div class="project minix3">
+				<img src="img/minix3.jpg"/>
+				<div class="desc">
+					<h2>MINIX 3</h2>
+					<p>A free, open-source, operating system designed to be highly reliable, flexible, and secure. It is based on a tiny microkernel running in kernel mode with the rest of the operating system running as a number of isolated, protected, processes in user mode. (<a href="http://minix3.org">minix3.org</a>)</p>
+				</div>
+			</div>
+
+			<div class="project muen">
+				<img src="img/muen.svg"/>
+				<div class="desc">
+					<h2>The Muen Separation Kernel</h2>
+					<p>The world’s first Open Source microkernel that has been formally proven to contain no runtime errors at the source code level. It is developed in Switzerland by the Institute for Internet Technologies and Applications (ITA) at the University of Applied Sciences Rapperswil (HSR). (<a href="http://muen.sk">muen.sk</a>)</p>
+				</div>
+			</div>
+
+			<div class="project nova">
+				<img src="img/nova.png"/>
+				<div class="desc">
+					<h2>NOVA Microhypervisor</h2>
+					<p>A research project aimed at constructing a secure virtualization environment with a small trusted computing base. NOVA consists of a microhypervisor and an unprivileged multi-server user environment running on top of it. (<a href="http://hypervisor.org">hypervisor.org</a>)</p>
+				</div>
+			</div>
+
+			<div class="project sel4">
+				<img src="img/sel4.svg"/>
+				<div class="desc">
+					<h2>seL4</h2>
+					<p>A high-assurance, high-performance microkernel developed, maintained and formally verified by NICTA and owned by General Dynamics C4 Systems. It is a member of the L4 family of microkernels, and is the world's most advanced, highest-assured operating-system microkernel. (<a href="http://sel4.systems">sel4.systems</a>)</p>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+</body>
+
+</html>
+
