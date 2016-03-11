@@ -28,9 +28,16 @@ div.projects {
 	margin-left: auto;
 	margin-right: auto;
 	width: 1200px;
-	column-count: 2;
-	-webkit-column-count: 2;
-	-moz-column-count: 2;
+}
+
+.projects .left {
+	float: left;
+	width: 600px;
+}
+
+.projects .right {
+	float: right;
+	width: 600px;
 }
 
 div.project {
