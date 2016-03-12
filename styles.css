@@ -1,6 +1,6 @@
 .wrapper {
     color: #373737;
-    width: 1200px;
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -27,17 +27,16 @@ div.projects {
 	margin-top: 40px;
 	margin-left: auto;
 	margin-right: auto;
-	width: 1200px;
 }
 
 .projects .left {
 	float: left;
-	width: 600px;
+	width: 50%;
 }
 
 .projects .right {
 	float: right;
-	width: 600px;
+	width: 50%;
 }
 
 div.project {
@@ -57,7 +56,6 @@ div.desc {
 	width: 101px;
 	padding: 20px;
 	margin: 0 0 0 0; 
-	border-radius: 20px 20px 20px 20px;
 	float: right;
 }
 
