@@ -1,8 +1,9 @@
 .wrapper {
-    color: #373737;
-    max-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
+	color: #373737;
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;
 }
 
 .logotext h1 {
