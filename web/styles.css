@@ -40,8 +40,19 @@ div.projects {
 	width: 50%;
 }
 
+.left div.project {
+	margin-left: 0px;
+	margin-right: 10px;
+}
+
+.right div.project {
+	margin-left: 10px;
+	margin-right: 0px;
+}
+
 div.project {
-	margin: 20px 20px 20px 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	border-radius: 20px 20px 20px 20px;
 	border: 1px solid black;
 	overflow: auto;
