@@ -28,35 +28,18 @@ div.projects {
 	margin-top: 40px;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-.projects .left {
-	float: left;
-	width: 50%;
-}
-
-.projects .right {
-	float: right;
-	width: 50%;
-}
-
-.left div.project {
-	margin-left: 0px;
-	margin-right: 10px;
-}
-
-.right div.project {
-	margin-left: 10px;
-	margin-right: 0px;
+	column-count: 2;
+	-webkit-column-count: 2;
+	-moz-column-count: 2;
 }
 
 div.project {
-	margin-top: 20px;
 	margin-bottom: 20px;
 	border-radius: 20px 20px 20px 20px;
 	border: 1px solid black;
 	overflow: auto;
 	padding: 10px;
+	-webkit-column-break-inside: avoid;
 }
 
 div.desc {
