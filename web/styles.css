@@ -35,11 +35,13 @@ div.projects {
 
 div.project {
 	margin-bottom: 20px;
-	border-radius: 20px 20px 20px 20px;
-	border: 1px solid black;
 	overflow: auto;
 	padding: 10px;
 	-webkit-column-break-inside: avoid;
+}
+
+div.project:hover {
+	background-color: #efefef;
 }
 
 div.desc {
@@ -48,9 +50,10 @@ div.desc {
 }
 
 .project img {
-	width: 101px;
+	max-width: 100px;
+	max-height: 100px;
 	padding: 20px;
-	margin: 0 0 0 0; 
+	margin: 0 0 0 0;
 	float: right;
 }
 
