@@ -3,6 +3,11 @@ html, body {
 	padding: 0 0 0 0;
 }
 
+p {
+	text-align: justify;
+	hyphens: auto;
+}
+
 .wrapper {
 	width: 100%;
 	overflow: auto;
@@ -54,7 +59,7 @@ a {
 div.projects {
 	color: #373737;
 	background-color: #ffffff;
-	max-width: 1200px;
+	max-width: 1400px;
 	margin-left: auto;
 	margin-right: auto;
 	column-count: 2;
