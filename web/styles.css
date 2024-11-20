@@ -13,14 +13,30 @@ p {
 	overflow: auto;
 }
 
+.micro {
+	font-style: italic;
+}
+
 a {
 	color: inherit;
 	text-decoration: none;
 	hyphens: none;
 }
 
-.logotext h1 {
-	padding: 20px 20px 0px 20px;
+.logobox {
+	background-color: #2f2f2f;
+	width: 100%;
+}
+
+.logo {
+	padding: 10px 20px 10px 20px;
+	background-color: #2f2f2f;
+	max-width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.logo h1 {
 	background-color: #2f2f2f;
 	color: #ffffff;
 	font-weight: bold;
@@ -29,12 +45,18 @@ a {
 	margin: 0;
 }
 
-.micro {
-	font-style: italic;
+.logo img {
+	height: 75px;
 }
 
-.logotext img {
-	width: 70px;
+.logo .float {
+	height: 100px;
+	float: right;
+}
+
+.introbox {
+	background-color: #4f4f4f;
+	width: 100%;
 }
 
 .intro {
@@ -43,6 +65,9 @@ a {
 	color: #e7e7e7;
 	font-family: Arial, Verdana;
 	font-size: 20px;
+	max-width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .intro a {

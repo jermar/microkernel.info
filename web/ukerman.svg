@@ -2,23 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="206.44582mm"
+   height="206.44583mm"
+   viewBox="0 0 731.50092 731.50098"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="ukerman.svg"
    inkscape:export-filename="/home/jermar/Desktop/ukerman.png"
    inkscape:export-xdpi="7.8742213"
-   inkscape:export-ydpi="7.8742213">
+   inkscape:export-ydpi="7.8742213"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -29,21 +29,29 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.81245791"
-     inkscape:cx="217.82013"
-     inkscape:cy="506.41616"
+     inkscape:cx="209.24161"
+     inkscape:cy="339.09449"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:snap-text-baseline="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="1366"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid3340" />
+       id="grid3340"
+       originx="-7.6932988"
+       originy="-157.23813"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -60,7 +68,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-7.6932987,-157.23813)">
     <g
        id="g4158">
       <path
@@ -80,16 +89,15 @@
          inkscape:connector-curvature="0"
          id="path4225-2"
          d="M 347.50494,646.54637 C 324.7713,631.25754 317.92111,625.93106 301.053,610.42693 c -10.88224,-10.00229 -19.77831,-18.75696 -19.76903,-19.45481 0.009,-0.69787 2.03378,-10.28232 4.49888,-21.29878 3.53417,-15.79406 7.37915,-28.01757 18.18158,-57.80069 7.53476,-20.77391 14.1361,-38.27134 14.66964,-38.88317 0.53354,-0.61185 11.48011,-1.97602 24.3257,-3.0315 22.82141,-1.87515 24.06866,-1.86206 54.52955,0.57254 17.14566,1.37038 31.47143,2.79398 31.83506,3.16356 0.36362,0.36958 6.24413,15.22352 13.06779,33.00876 10.25793,26.73633 13.35399,36.32762 17.87639,55.37948 3.00835,12.67348 5.64378,24.13913 5.85651,25.47923 0.30295,1.90867 -4.61466,7.18253 -22.69847,24.34289 -19.89286,18.87702 -26.08249,23.96589 -44.75992,36.79974 -11.92112,8.19135 -22.30945,15.09189 -23.08522,15.33451 -0.77576,0.24263 -13.4102,-7.62892 -28.07652,-17.49232 z"
-         style="fill:#ffcc00;fill-opacity:1;stroke:#ffffff;stroke-width:0.48240671;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+         style="fill:#ffcc00;fill-opacity:1;stroke:#ffffff;stroke-width:0.482407;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
       <text
          transform="scale(1.0214241,0.97902526)"
-         sodipodi:linespacing="125%"
          id="text4227"
          y="597.79352"
          x="369.37173"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:202.4964447px;line-height:125%;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L Italic';text-align:center;text-anchor:middle;fill:#cc0000;fill-opacity:1"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:202.496px;line-height:1.25;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L Italic';text-align:center;text-anchor:middle;fill:#cc0000;fill-opacity:1"
            y="597.79352"
            x="369.37173"
            id="tspan4229"
